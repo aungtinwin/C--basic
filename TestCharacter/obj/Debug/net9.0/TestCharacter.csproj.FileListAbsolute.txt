@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\bin\Debug\net9.0\TestCharacter.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\bin\Debug\net9.0\TestCharacter.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\bin\Debug\net9.0\TestCharacter.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\bin\Debug\net9.0\TestCharacter.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\bin\Debug\net9.0\TestCharacter.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\refint\TestCharacter.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\TestCharacter.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestCharacter\obj\Debug\net9.0\ref\TestCharacter.dll

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\bin\Debug\net9.0\TestOperators.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\bin\Debug\net9.0\TestOperators.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\bin\Debug\net9.0\TestOperators.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\bin\Debug\net9.0\TestOperators.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\bin\Debug\net9.0\TestOperators.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\refint\TestOperators.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\TestOperators.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestOperators\obj\Debug\net9.0\ref\TestOperators.dll

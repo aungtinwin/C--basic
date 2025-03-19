@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\bin\Debug\net9.0\TestBoolean.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\bin\Debug\net9.0\TestBoolean.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\bin\Debug\net9.0\TestBoolean.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\bin\Debug\net9.0\TestBoolean.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\bin\Debug\net9.0\TestBoolean.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\refint\TestBoolean.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\TestBoolean.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestBoolean\obj\Debug\net9.0\ref\TestBoolean.dll

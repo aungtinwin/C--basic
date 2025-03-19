@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\bin\Debug\net9.0\TestShortType.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\bin\Debug\net9.0\TestShortType.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\bin\Debug\net9.0\TestShortType.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\bin\Debug\net9.0\TestShortType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\bin\Debug\net9.0\TestShortType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\refint\TestShortType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\TestShortType.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestShortType\obj\Debug\net9.0\ref\TestShortType.dll

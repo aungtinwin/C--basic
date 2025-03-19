@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\bin\Debug\net9.0\SecondApp.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\bin\Debug\net9.0\SecondApp.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\bin\Debug\net9.0\SecondApp.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\bin\Debug\net9.0\SecondApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\bin\Debug\net9.0\SecondApp.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\refint\SecondApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\SecondApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SecondApp\obj\Debug\net9.0\ref\SecondApp.dll

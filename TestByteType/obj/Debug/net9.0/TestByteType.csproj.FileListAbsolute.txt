@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\bin\Debug\net9.0\TestByteType.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\bin\Debug\net9.0\TestByteType.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\bin\Debug\net9.0\TestByteType.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\bin\Debug\net9.0\TestByteType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\bin\Debug\net9.0\TestByteType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\refint\TestByteType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\TestByteType.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestByteType\obj\Debug\net9.0\ref\TestByteType.dll

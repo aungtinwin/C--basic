@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\bin\Debug\net9.0\Operator_Arithmetic.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\bin\Debug\net9.0\Operator_Arithmetic.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\bin\Debug\net9.0\Operator_Arithmetic.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\bin\Debug\net9.0\Operator_Arithmetic.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\bin\Debug\net9.0\Operator_Arithmetic.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\refint\Operator_Arithmetic.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\Operator_Arithmetic.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\Operator_Arithmetic\obj\Debug\net9.0\ref\Operator_Arithmetic.dll

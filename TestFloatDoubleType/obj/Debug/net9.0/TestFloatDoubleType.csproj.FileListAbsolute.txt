@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\bin\Debug\net9.0\TestFloatDoubleType.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\bin\Debug\net9.0\TestFloatDoubleType.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\bin\Debug\net9.0\TestFloatDoubleType.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\bin\Debug\net9.0\TestFloatDoubleType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\bin\Debug\net9.0\TestFloatDoubleType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\refint\TestFloatDoubleType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\TestFloatDoubleType.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestFloatDoubleType\obj\Debug\net9.0\ref\TestFloatDoubleType.dll

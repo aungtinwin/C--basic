@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\bin\Debug\net9.0\TestLongType.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\bin\Debug\net9.0\TestLongType.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\bin\Debug\net9.0\TestLongType.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\bin\Debug\net9.0\TestLongType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\bin\Debug\net9.0\TestLongType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\refint\TestLongType.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\TestLongType.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestLongType\obj\Debug\net9.0\ref\TestLongType.dll
