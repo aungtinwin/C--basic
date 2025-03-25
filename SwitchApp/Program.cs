@@ -30,7 +30,7 @@
 // case '+': Console.WriteLine("Addition:" + (n1+n2));break;
 // case '-': Console.WriteLine("Sub:" + (n1-n2));break;
 // case '*': Console.WriteLine("Multi:" + (n1*n2));break;
-// case '/': Console.WriteLine("Division:" + (n1*n2));break;
+// case '/': Console.WriteLine("Division:" + (n1/n2));break;
 // case '%': Console.WriteLine("Modulus:" + (n1%n2));break;
 // default: Console.WriteLine("Your operator character wrong!!");break;
 // }
@@ -58,9 +58,9 @@
 // switch(ch)
 // {
 //     case char result when char.IsLetter(ch):
-//              Console.WriteLine("digit character");break;
-//     case char result when char.IsDigit(ch):
 //              Console.WriteLine("alphabetic character");break;
+//     case char result when char.IsDigit(ch):
+//              Console.WriteLine("digit character");break;
 //     default:
 //              Console.WriteLine("other character");break;
 // }

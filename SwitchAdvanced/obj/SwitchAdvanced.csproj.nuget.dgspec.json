@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Riso3\\C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Riso3\\1.C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Riso3\\C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Riso3\\1.C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Riso3\\C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Riso3\\1.C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj",
         "projectName": "SwitchAdvanced",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Riso3\\C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Riso3\\1.C#Basic\\SwitchAdvanced\\SwitchAdvanced.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Riso3\\C#Basic\\SwitchAdvanced\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Riso3\\1.C#Basic\\SwitchAdvanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
