@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\bin\Debug\net9.0\DecisionStatemets.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\bin\Debug\net9.0\DecisionStatemets.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\bin\Debug\net9.0\DecisionStatemets.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\bin\Debug\net9.0\DecisionStatemets.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\bin\Debug\net9.0\DecisionStatemets.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.sourcelink.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\refint\DecisionStatemets.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\DecisionStatemets.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\DecisionStatemets\obj\Debug\net9.0\ref\DecisionStatemets.dll

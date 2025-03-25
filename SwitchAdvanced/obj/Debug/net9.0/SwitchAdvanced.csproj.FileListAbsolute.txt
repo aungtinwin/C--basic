@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.sourcelink.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\bin\Debug\net9.0\SwitchAdvanced.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\bin\Debug\net9.0\SwitchAdvanced.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\bin\Debug\net9.0\SwitchAdvanced.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\bin\Debug\net9.0\SwitchAdvanced.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\bin\Debug\net9.0\SwitchAdvanced.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\refint\SwitchAdvanced.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\SwitchAdvanced.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchAdvanced\obj\Debug\net9.0\ref\SwitchAdvanced.dll

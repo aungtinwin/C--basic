@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\bin\Debug\net9.0\TestEqualComparism.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\bin\Debug\net9.0\TestEqualComparism.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\bin\Debug\net9.0\TestEqualComparism.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\bin\Debug\net9.0\TestEqualComparism.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\bin\Debug\net9.0\TestEqualComparism.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.sourcelink.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\refint\TestEqualComparism.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\TestEqualComparism.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\TestEqualComparism\obj\Debug\net9.0\ref\TestEqualComparism.dll

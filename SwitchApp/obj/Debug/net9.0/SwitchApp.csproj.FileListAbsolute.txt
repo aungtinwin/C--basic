@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.sourcelink.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\bin\Debug\net9.0\SwitchApp.exe
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\bin\Debug\net9.0\SwitchApp.deps.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\bin\Debug\net9.0\SwitchApp.runtimeconfig.json
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\bin\Debug\net9.0\SwitchApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\bin\Debug\net9.0\SwitchApp.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\refint\SwitchApp.dll
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.pdb
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\SwitchApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Riso3\C#Basic\SwitchApp\obj\Debug\net9.0\ref\SwitchApp.dll
